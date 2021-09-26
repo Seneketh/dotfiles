@@ -1,4 +1,4 @@
-[Cătălin][repo]’s dotfiles
+[Seneketh][repo]’s dotfiles
 ==========================
 
 [![CI status for macOS][ci badge macos]][ci link macos]

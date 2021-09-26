@@ -1,4 +1,4 @@
-[Seneketh][repo]’s dotfiles
+[Seneketh][https://github.com/Seneketh/]’s dotfiles
 ==========================
 
 [![CI status for macOS][ci badge macos]][ci link macos]

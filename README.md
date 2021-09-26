@@ -1,4 +1,4 @@
-[Seneketh][https://github.com/Seneketh/]’s dotfiles
+[Seneketh][repo]’s dotfiles
 ==========================
 
 [![CI status for macOS][ci badge macos]][ci link macos]
@@ -200,7 +200,7 @@ The code is available under the [MIT license][license].
 [license]: LICENSE.txt
 [preferences macos]: src/os/preferences/macos
 [preferences ubuntu]: src/os/preferences/ubuntu
-[repo]: https://github.com/alrra
+[repo]: https://github.com/Seneketh/
 [setup macos]: https://cloud.githubusercontent.com/assets/1223565/19314446/cd89a592-90a2-11e6-948d-9d75247088ba.gif
 [setup script]: https://github.com/alrra/dotfiles/blob/main/src/os/setup.sh#L3
 [setup ubuntu]: https://user-images.githubusercontent.com/1223565/101978032-d0791a80-3c06-11eb-8870-661d0eb3f543.gif
